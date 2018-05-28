@@ -9,6 +9,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
 
+// testing something in git
 public class MainActivity extends Activity {
 
 	@Override

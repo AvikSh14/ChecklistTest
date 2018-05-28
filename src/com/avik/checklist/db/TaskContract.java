@@ -1,7 +1,7 @@
 package com.avik.checklist.db;
 
 import android.provider.BaseColumns;
-
+//testing git commands :D
 public class TaskContract {
 	public static final String DB_Name = "com.avik.checklist.db.task";
 	public static final int DB_VERSION = 1;
